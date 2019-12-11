@@ -1,0 +1,17 @@
+body {
+    width: 1140px;
+    margin: 0 auto;
+
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+audio {
+    width: 70%;
+}
